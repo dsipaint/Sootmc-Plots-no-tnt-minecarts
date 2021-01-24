@@ -1,0 +1,10 @@
+main: Main
+author: al
+name: notntcarts
+version: 1.0
+api-version: 1.16
+
+permissions:
+   tntcart.place:
+      description: allows placing of tnt carts
+      default: op
